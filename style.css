@@ -47,4 +47,27 @@ span {
     background-size: 40%;
 }
 
-.exprence-area {}
+.green {
+    color: green;
+}
+
+.carer-life {
+    box-shadow: 10px 10px 30px;
+    width: 50%;
+    margin-right: 5px;
+    margin-left: 5px;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+h3 {
+    font-size: 25px;
+
+}
+
+.exprence-area {
+    background-image: url(img/y.png);
+    background-repeat: no-repeat;
+    background-size: 60%;
+    background-position: left;
+}
